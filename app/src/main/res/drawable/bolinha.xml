@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shape="oval"
+    tools:ignore="ExtraText">
+    <solid android:color="#673AB7" /> <!-- Cor da bolinha -->
+    <size
+        android:width="40dp"
+        android:height="40dp" />
+</shape>
